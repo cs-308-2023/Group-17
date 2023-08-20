@@ -1,5 +1,5 @@
 # Group-17
-The team members are:
+The team members are:-
 1. GKV Snigdha
 2. Archana Nayak
 3. Saransh Bansal
