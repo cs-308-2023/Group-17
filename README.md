@@ -11,14 +11,14 @@ The team members are:
 
 This repository contains a simple program that demonstrates the following:
 
-1. Executing a simple "Hello World" program.
+1. Using `hello.cpp` for executing a simple "Hello World" program.
 2. Using a recursive `factorial.cpp` program to calculate and print the factorial of a given number (5).
 
 ### hello.cpp
 
 The `hello.cpp` file contains a basic C++ program that prints the message "Hello World!" to the console.
 
-### Factorial Calculator
+### factorial.cpp
 
 The `factorial.cpp` file contains a recursive C++ program to calculate the factorial of a given number. The program calculates the factorial of the number of the number is positive, and prompts the user to reenter the number if it is negative.
 
