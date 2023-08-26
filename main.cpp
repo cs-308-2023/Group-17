@@ -1,9 +1,10 @@
 #include <iostream>
 #include "functions.h"
+#include "gcd.cpp"
 using namespace std;
 int main(){
-    print_hello();
-    printf("\n");
-    printf("The factorial of 5 is %d\n", factorial(5));
+    int x = 56, y=98;
+    cout<<"GCD of 56 and 98 is : " << gcd(x,y)<<endl;
+
     return 0;
 }
