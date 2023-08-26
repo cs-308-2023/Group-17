@@ -3,8 +3,7 @@
 #include "gcd.cpp"
 using namespace std;
 int main(){
-    print_hello();
-    printf("\n");
-    printf("The factorial of 5 is %d\n", factorial(5));
+    int x = 56, y=98;
+    cout<<"GCD of x and y is "<<gcd(x,y)<<endl;
     return 0;
 }
